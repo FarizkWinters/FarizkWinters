@@ -1,16 +1,16 @@
 <h1 align="center">Hi there, I'm Wintersss! 👋</h1>
 
 <p align="center">
-  🔥 Just a Copy-Paste Master  
-  🚀 Learning from the Best (aka ChatGPT)  
-  💻 Experimenting with Cool Stuff  
+  🔥 Bahan Gabut doang jir..  
+  🚀 All Script from best AI (aka ChatGPT)  
+  💻 Experiment with useless stuff  
 </p>
 
 ---
 
 ### 📌 About Me:
-- 🛠️ I love automating things without actually coding 🤖  
-- 📝 Copy-Paste enthusiast, making life easier!  
+- 🚀 All the scripts I made here are just for fun
+- 📝 Copy-Paste Enjoier..  
 - 🎯 Exploring Telegram bots, automation, and more...  
 
 ---
@@ -23,8 +23,7 @@
 ---
 
 ### ⚡ Fun Fact:
-> "Why reinvent the wheel when you can copy-paste it?" 🚀
-
+> "Kalo bisa copas kenapa harus ngodink dari awal bosku >_<" 
 ---
 
 ### 📫 Connect with Me:
