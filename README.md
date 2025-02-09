@@ -1,11 +1,5 @@
 <h1 align="center">Hi there, I'm Wintersss! 👋</h1>
 
-<p align="center">
-  🔥 Bahan Gabut doang jir..  
-  🚀 All Script from best AI (aka ChatGPT)  
-  💻 Experiment with useless stuff  
-</p>
-
 ---
 
 ### 📌 About Me:
